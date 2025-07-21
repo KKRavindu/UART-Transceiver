@@ -4,7 +4,7 @@ This repository contains a project developed for the **EN2111 Electronic Circuit
 
 ## 🚀 Project Overview
 
-The goal was to establish a working UART link between two DE0-Nano boards using **SystemVerilog**, **Quartus Prime**, and **ModelSim**. The project involved:
+The goal was to establish a working UART link between two DE0-Nano boards using **Verilog**, **Quartus Prime**, and **ModelSim**. The project involved:
 
 - **Designing** UART transmitter and receiver modules in SystemVerilog.
 - **Simulating** and verifying functionality using ModelSim.
